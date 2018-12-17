@@ -25,3 +25,11 @@ List of Best Practices for Customer Success
 -	See Ctm Succ Maturity curve
 -	Companies need to improve on Tech Touch elements and breaking down Silos.
 -	Need to do In-App engagements – feedback and surveys
+
+Leadership:
+-	Lead by inspiration not by dictation
+-	Ask questions
+-	Listen more than talking
+-	Be VOC and carry through organization
+-	Learn about employees and ctms – their desires and input
+-	Kind and inclusive environment
